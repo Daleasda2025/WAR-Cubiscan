@@ -1,0 +1,30 @@
+{
+    "EndpointId": "INBOUND_SOURCEENDPOINT",
+    "IncludeRequest": true,
+    "MessageType": "Cubiscan",
+    "Messages": null,
+    "ObjectType": "VSKUData",
+    "Cubiscan": [
+        {
+            "MessageId": "010020134724",
+            "UpdateFacilityLevelItem": true,
+            "ItemBarcode": "",
+            "ItemId": "100000304",
+            "CriticalDimension1": "",
+            "CriticalDimension2": "",
+            "CriticalDimension3": "",
+            "Conveyable": "",
+            "LpnPerTier": 12,
+            "TierPerPallet": 5,
+            "StandardQuantityUomId": "SUBPACK",
+            "UomId": "",
+            "Quantity": "",
+            "Length": 32.8,
+            "Width": 26.8,
+            "Height": 24.8,
+            "Weight": 7.52,
+            "Volume": "",
+            "Is_Std": ""
+        }
+    ]
+}
