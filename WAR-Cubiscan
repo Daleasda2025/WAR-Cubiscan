@@ -16,7 +16,7 @@
             "Conveyable": "",
             "LpnPerTier": 12,
             "TierPerPallet": 5,
-            "StandardQuantityUomId": "SUBPACK", A
+            "StandardQuantityUomId": "SUBPACK",
             "UomId": "",
             "Quantity": "",
             "Length": 32.8,
